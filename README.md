@@ -19,7 +19,7 @@ Create networks for your services before deploying the configuration using the c
 
 Deploy Nextcloud using Docker Compose:
 
-`docker compose -f nextcloud-traefik-letsencrypt-docker-compose.yml -p nextcloud up -d`
+`docker compose -p nextcloud up -d`
 
 ## Background Jobs Using Cron
 
