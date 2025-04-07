@@ -15,7 +15,7 @@ jobs:
     env:
       NETWORK_ONE: nextcloud-network
       NETWORK_TWO: traefik-network
-      DOCKER_COMPOSE_FILE: nextcloud-traefik-letsencrypt-docker-compose.yml
+      DOCKER_COMPOSE_FILE: docker-compose.yml
       APP_HOSTNAME: nc.homeinfra.su
       APP_TRAEFIK_HOSTNAME: traefik.nc.homeinfra.su
       COMPOSE_PROJECT_NAME: nextcloud
