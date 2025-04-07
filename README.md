@@ -1,6 +1,5 @@
 # Nextcloud with Let's Encrypt Using Docker Compose
-
-[![Deployment Verification](https://github.com/heyvaldemar/nextcloud-traefik-letsencrypt-docker-compose/actions/workflows/00-deployment-verification.yml/badge.svg)](https://github.com/heyvaldemar/nextcloud-traefik-letsencrypt-docker-compose/actions)
+[![Deployment Verification](https://github.com/svoronkin/nc/actions/workflows/main.yml/badge.svg)](https://github.com/svoronkin/nc/actions/workflows/main.yml)
 
 The badge displayed on my repository indicates the status of the deployment verification workflow as executed on the latest commit to the main branch.
 
